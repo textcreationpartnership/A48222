@@ -1,0 +1,301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to Mr. Robert Bridgman, George Keith's trophy, in answer  to his reasons for leaving the Quaqers [sic]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48222</idno>
+            <idno type="STC">Wing L1717</idno>
+            <idno type="STC">ESTC R41469</idno>
+            <idno type="EEBO-CITATION">31355406</idno>
+            <idno type="OCLC">ocm 31355406</idno>
+            <idno type="VID">110446</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48222)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110446)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1745:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to Mr. Robert Bridgman, George Keith's trophy, in answer  to his reasons for leaving the Quaqers [sic]</title>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by the Booksellers of London and Westminster,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: torn, with print show-through and loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bridgman, Robert.</term>
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110446:1"/>
+            <pb facs="tcp:110446:1" rendition="simple:additions"/>
+            <p> A LETTER TO Mr. <hi>Robert Bridgman, George Keith</hi>'s TROPHY;</p>
+            <p>In ANSWER to his REASONS For leaving the <hi>Q<g ref="char:V">Ʋ</g>AQERS.</hi>
+            </p>
+            <p>Printed and Sold by the Bookſellers of <hi>London</hi> and <hi>Weſtminſter,</hi> 1700.</p>
+            <pb facs="tcp:110446:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:110446:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:110446:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:110446:3"/>
+            <head>A LETTER to Mr. <hi>Robert Bridgman,</hi> in Anſwer to his <hi>Reaſons for leaving the Quakers.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>hearing you had publiſh'd your <hi>Reaſons,</hi> why you left the <hi>Quakers,</hi> and joyned to the Church of <hi>England,</hi> I was deſirous of ſeeing them, becauſe I wanted to be ſatisfied whether you, and your Ma<g ref="char:EOLhyphen"/>ſter, were all in one Tale, or whether you had any farther Diſcoveries to make of the <hi>Quakers Heretical Prin<g ref="char:EOLhyphen"/>ciples,</hi> than he had done before; for I conſidered Mr. <hi>Keith</hi>'s Station, whilſt with them, was with his Boys and his Adverſaries (which were many, I confeſs, both of the <hi>Church of England</hi> and <hi>Diſſenters)</hi> and with the moſt Noted and Learned amongſt them: Now yours being more amongſt the trading Part, or common Sort, I thought you would have attack'd them in the Flank and Rear, whilſt your Captain was engaged in the Front; and to tell you the Truth, your coming over to the Church of <hi>England</hi> was much more obſerved by thinking People, than Mr. <hi>Keith;</hi> for all know, or may reaſonably judge, the Reaſon of his Revolt; but you having not that Temptation not Provocation, I expected ſomething more remarkable than what Mr. <hi>Hicks,</hi> Mr. <hi>Faldo, Taylor, Jenner,</hi> and Mr. <hi>Trepidantium,</hi> &amp;c. had for many Years told us: But inſtead of ſo doing, I begin to Queſtion your Sincerity, as well as his, doubting you go about to delude the World, making People believe, you have great <hi>Hereſies</hi> to lay to their Charge; which, upon Exa<g ref="char:EOLhyphen"/>mination, is nothing like it. Now, pray, tell me ho<g ref="char:EOLhyphen"/>neſtly,
+<pb n="4" facs="tcp:110446:4"/> whether you are not hired by the <hi>Quakers</hi> to take this way to blacken them by Fiction, that they may appear White in Reality; and indeed 'tis to be doubted, whether both your Maſter, and you too, have not turn'd <hi>Deſerters,</hi> for no other Reaſon, than only to betray the Church into the Hands of the Army of <hi>A<g ref="char:EOLhyphen"/>baddon,</hi> when a Convenient Time ſhall preſent. I can<g ref="char:EOLhyphen"/>not find any thing in your <hi>Reaſons,</hi> to be free with you, that makes againſt the <hi>Quakers,</hi> ſave thoſe two Points, on which you have hitch'd them, <hi>viz. Shaking the Two grand Pillars of Chriſtianity,</hi> Baptiſm <hi>and the</hi> Supper; and that you ſhould eſteem it <hi>matter of Sorrow and Shame</hi> to you, to be <hi>ignorant of theſe Fundamentals,</hi> all the while you were amongſt the <hi>Quakers,</hi> is very unaccountable; when no Man, from the firſt day of his turning <hi>Quaker,</hi> for near Fifty Years paſt, to this day, ever believed them to be <hi>Fundamentals;</hi> ſo that it is not a new Diſcovery, ei<g ref="char:EOLhyphen"/>ther your Maſter or you have made, that the) <hi>Quakers de<g ref="char:EOLhyphen"/>ny the Sacraments,</hi> ſince they did always ſo from the firſt, and yet that only is the thing on which you have the Ad<g ref="char:EOLhyphen"/>vantage on them: As for your other <hi>Fundamentals,</hi> Sir, they have the confidence to give you the Lye; perhaps you will ſay, They are not to be believed, becauſe they mean not what they ſay; and they ſay and unſay, and do and undo. But, Sir, I think it will not become you thus to treat them, ſince they may with as good Reaſon retort it on you, who have been a ſayer and unſayer, and written for them, and now againſt them; which ſhews, however Erroneous they are, 'tis not fit to credit you, or your Maſter, who are ever in the right (in your own Eyes, in the preſent Tenſe) when you are both for and againſt. To tell you the Truth, in my Opinion you make too great haſte out of one infallible Chair into another; you were ſo when <hi>Quakers,</hi> you are ſo now ye oppoſe the <hi>Quakers;</hi> the Church was with you a <hi>Den of Thieves,</hi>
+               <pb n="5" facs="tcp:110446:4"/> now 'tis a <hi>Holy Place;</hi> you were Sincere then, and ſaid what you ſaid in the Name of God; you are ſincere now, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou ſay, tho' you have left out the Name of God; in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich, I think, you do well, becauſe of the Text. Now, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow long you will ſee much Beauty, and Glory, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ertue in the Church of <hi>England,</hi> we know not; and why <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhould truſt you, now ye have through Diſguſt turn<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to the Church, any more than before, I cannot ſee; <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly this I will add, That now you are in the Family, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou have a better opportunity to Fire the Houſe, than when you could not come within the Doors.</p>
+            <p>But, Sir, I have a mind to be a little more particular in examining your <hi>Reaſons;</hi> for to be free with you, I doubt you have ſaid more than is true againſt the <hi>Quakers,</hi> to excuſe your (as they call it) Apoſtacy; for otherwiſe they ſay, your firſt Page is your own Caſe, <hi>&amp;c.</hi> and are ſorrowfully affected that a Man of that Senſe you have thought your ſelf of, ſhould be Ignorant of thoſe great <hi>Truths</hi> they hold, and ever did; of which it ſeems, You, your Wife, and ſome more in <hi>Huntingdon-ſhire,</hi> were Igno<g ref="char:EOLhyphen"/>rant; the which, if true, I muſt confeſs you ought to be both aſhamed of, and ſorrowful for: But if you ſay ſo of your ſelves, to Reproach others that were better Learned, 'tis highly baſe. To begin then with the <hi>Doctrine of the Trinity,</hi> of which you ſay you were, and Inſinuate the <hi>Quakers</hi> are Ignorant.</p>
+            <p>That they believe the <hi>Doctrine of the Trinity,</hi> as it is expreſſed or implyed in the ſacred Scriptures, the many Books and Pamphlets, formerly and lately publiſhed by them, abundantly prove, as hereafter is ſhewed, ſo that your Inſinuation is either implacably Malicious againſt them, or elſe, as I ſaid before, you juggle together; and your part is to over-Charge them, that they may have the opportunity to prove themſelves Orthodox.</p>
+            <p n="2">
+               <pb n="6" facs="tcp:110446:5"/> 2. The <hi>Incarnation of our Lord Jeſus Chriſt;</hi> none ſeem to be more hearty in acknowledgment to the Truth thereof, than they; and to be juſt to all Men, I muſt needs ſay, I ſee no more reaſon to disbelieve them, when they ſo po<g ref="char:EOLhyphen"/>ſitively affirm it, than any other Man; for, pray, do you or your Maſter believe thoſe Truths? Nay, do the Chur<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>England</hi> believe them? You will anſwer in the Affirm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tive: I ask again, what Demonſtration can you give me, that you do believe it? If you confidently affirm it, I may, if I pleaſe to follow your Example, as confidently deny it: Now the <hi>Quakers</hi> ſay <hi>yea,</hi> as well as you, and why their <hi>yea</hi> is not ſo good as your <hi>nay,</hi> I cannot ſee: In their Converſati<g ref="char:EOLhyphen"/>on their <hi>yea</hi> will paſs, and why it ſhould not in Religion, is ſtrange to me: Now that they do affirm it, I prove hereafter, and then, unleſs you know the Thoughts of their Hearts are contrary to their Words, it muſt needs be highly diſhonou<g ref="char:EOLhyphen"/>rable, and uncivil in <hi>you,</hi> to inſinuate ſuch things againſt them.</p>
+            <p n="3">3. <hi>The Satisfaction and Atonement made by his (Chriſt's) Obedience and Death on the Croſs.</hi>
+            </p>
+            <p n="4">4. <hi>His Reſurrection and Aſcenſion.</hi>
+            </p>
+            <p n="5">5. <hi>His remaining in our Nature, at the right Hand of God, in the Glory of his Father, our Head, High Prieſt and Interceſſor.</hi>
+            </p>
+            <p n="6">6. <hi>The Faith and full Perſwaſion of his laſt and outward Ap<g ref="char:EOLhyphen"/>pearance to Judge both Quick and Dead.</hi>
+            </p>
+            <p>The <hi>Doctrines</hi> relating hereto, and Faith wrought by the <hi>Operation of the Holy Ghoſt, are,</hi> you ſay, <hi>the Eſſential and Fundamental Principles of the Chriſtian Religion, without which we cannot be ſaved in this or the World</hi> to come.</p>
+            <p>Sir, I have no great mind to <hi>Animadvert</hi> on your <hi>Eſſentials</hi> and <hi>Fandamentals,</hi> tho' I think there is ſomething in it, that makes your <hi>Reaſons</hi> to taſte of the Cask, more than every Body is aware of: But I am willing the <hi>Quakers</hi> ſhall anſwer you, and if therein they ſay for Subſtance, as you ſay, you are obliged, by the Rules of good Manners, not only to beg Their Pardon, but your Reader's Pardon alſo.</p>
+            <pb n="7" facs="tcp:110446:5"/>
+            <p> THE firſt in order is the <hi>Trinity;</hi> and doubtleſs <hi>W. P.</hi> is the great <hi>Ranter</hi> on that Subject, for whatever other <hi>Quakers</hi> have done, or ſaid in that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſe, Mr. <hi>Penn</hi> has in his <hi>Sandy Foundation</hi> out done <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em all: You cannot be Ignorant what Work, and what <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Noiſe that Book, and his being put in the <hi>Tower</hi> there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e, made in the World; for, and becauſe of which, <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>n he and the reſt of the <hi>Quakers</hi> have had work enough <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver ſince, to defend it againſt thoſe that have taken ad<g ref="char:EOLhyphen"/>vantage therein. But, pray, Sir, what is this Doctrine of the <hi>Trinity?</hi> Is it <hi>that there is,</hi> that is to ſay, 'tis not a Fiction, but a Reality; there is a <hi>God the Father, God the Son, and God the Holy Ghoſt;</hi> and yet theſe Three, <hi>viz. Father, Son</hi> and <hi>Holy Ghoſt,</hi> are not <hi>Three,</hi> but <hi>One God?</hi> If the <hi>Quakers</hi> do not believe this, they are very Hypo<g ref="char:EOLhyphen"/>critical, I muſt confeſs, when even Mr. <hi>Penn</hi> himſelf ſaith, in the Book above-quoted, p. 26. <hi>Miſtake me not, we have never diſowned a</hi> Father, Word <hi>and</hi> Spirit, <hi>which are One.</hi> But what is it then, Mr. <hi>Penn,</hi> you diſown? He Anſwers; <hi>Mens Inventions; for</hi> firſt, <hi>Their Trinity, (which is one</hi> Perſon <hi>of the Father, another</hi> Perſon <hi>of the Son, and ano<g ref="char:EOLhyphen"/>ther</hi> Perſon <hi>of the Holy Ghoſt)</hi>
+            </p>
+            <p>1ſt. <hi>Has no Foundation in Scripture,</hi> ſaith he. Sir, if it hath, you ought to produce the Chapter and Verſe; and then if the <hi>Quakers</hi> disbelieve it, you may Reproach them with it, but till then, you know we are not obliged to believe it, as ſo expreſt (and Mr. <hi>Penn</hi> is in the right of it, who ſaith, <hi>It is but Mens Inventions)</hi> though the Doctrine of <hi>Father, Son</hi> and <hi>Holy, Ghoſt,</hi> being <hi>One,</hi> not <hi>Three Gods,</hi> or <hi>Corporeal Subſiſtences,</hi> they ſay they own and you have not given any Demonſtration to the con<g ref="char:EOLhyphen"/>trary.</p>
+            <p>2d. <hi>Reaſon,</hi> ſaith he, <hi>is its Original</hi> (viz. <hi>Three diſtinct Perſons, and but one God) was</hi> 300 <hi>Years after Chriſtianity was in the World; but the Doctrine of Father, Son and Holy</hi>
+               <pb n="8" facs="tcp:110446:6"/> 
+               <hi>Ghoſt, was not</hi> 300 <hi>Years nor days after Chriſtianity was in the World.</hi>
+            </p>
+            <p>His 3d. <hi>Reaſon</hi> was, <hi>It coſt much Blood in the Council of</hi> Sirmium, <hi>Anno</hi> 355. <hi>It was decreed, That becauſe <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Scriptures of God make no mention thereof, the Controv<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> about it ſhould ceaſe:</hi> A happy and wiſe Diſcuſſion.</p>
+            <p>His 4th <hi>Reaſon</hi> was, <hi>It occaſions Idolatry, witneſs P<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> Images;</hi> &amp;c. <hi>which muſt be according to the Doctrine of T<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> diſtinct Perſons,</hi> One, Two, Three, <hi>each differing one from the other, and doubtleſs is but too true:</hi> I am therefore o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Dr. <hi>Burnet</hi>'s Mind, That the Word <hi>Perſon</hi> is too Groſs, and only uſed to ſupply a Defect, and ought to be uſed no longer than the <hi>Brazen Serpent</hi> was.</p>
+            <p>It were needleſs to ſay more, ſince every Body knows the Quakers Quarrel not with the Doctrine, but the <hi>Terms</hi> of expreſſing it; which Terms are not to be found in the ſacred Text, and therefore not they, but we are to be blamed, for pretending the Text to be the Mind of God; and yet adding to it, when they keep to it, from which, Sir, it is evident, your firſt Article againſt them, if not deſigned<g ref="char:punc">▪</g> has made very much for them; ſince they have in one of their imprimated Prints, theſe very words, <hi>We acknow<g ref="char:EOLhyphen"/>ledge its every true Chriſtian's Duty, to believe in God the Fa<g ref="char:EOLhyphen"/>ther Almighty, and in Jeſus Chriſt his only Son, our Lord, and in the Holy Spirit, which are One God.</hi>
+            </p>
+            <p>The 2d of <hi>The Incarnation of the Son of God,</hi> &amp;c.</p>
+            <p>Sir, I hardly underſtand you in this Article; would you make us believe that the <hi>Quakers</hi> do not believe <hi>Chriſt's Incarnation,</hi> becauſe you ſay, you and your Wife, <hi>&amp;c.</hi> did not believe it? Doubtleſs as you deceived your ſelves, ſo you did many others, oven of your then <hi>Communion,</hi> who thought you had been better inſtructed; for if you read the <hi>Quakers</hi> Books, you cannot be ignorant of their Notions concerning <hi>Chriſt's Incarnation,</hi> viz. <hi>That he took not on him the Nature of Angels, but the Nature of Man, and was made</hi>
+               <pb n="9" facs="tcp:110446:6"/> 
+               <hi>Man,</hi> viz. <hi>was very Man, as well as very God:</hi> For proof hereof, ſee your Maſter <hi>Keith,</hi> in the firſt place, his <hi>Immediate Revelation,</hi> his <hi>Way caſt up,</hi> his <hi>Way to the City of God;</hi> which were all printed whilſt he was in Communion with them, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd by their Approbation, which ſhews they did believe <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Doctrine ſo, as their Mouth had expreſt: Beſides Mr. <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eith,</hi> you know Mr. <hi>Barclay</hi> has as amply expreſt himſelf on that Subject, as Mr. <hi>Keith;</hi> and that the Society of <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> has approved of what he has declared, is evident, ſince they have, at their publick Charge, printed his Works in Folio. But if you ſhould object, This is only out of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> I will bring the matter nearer home; firſt, then, their great Apoſtle, againſt whom you ſay as much as any, <hi>viz. G. F.</hi> That he did believe the <hi>Incarnation of Chriſt,</hi> in the Year 1644. is evident, when the Queſtion was ask'd, <hi>Why Chriſt cry'd out upon the Croſs, My God, my God?</hi> &amp;c. <hi>G. F.</hi> Anſwers<g ref="char:punc">▪</g> 
+               <hi>That it was becauſe at that time, the Sins of all Mankind was upon him, with which he was wounded; and the weight of their Iniquities and Tranſgreſſions were upon him; which he was to bear, and to be an Offering for them, as he was Man, but died not as he was God,</hi> Journal Fol. 4. being ask'd, <hi>who was Chriſt's Father and Mother,</hi> he anſwers, <hi>Mary was his Mother,</hi> Joſeph <hi>was his ſuppoſed Father, but that he was the Son of God,</hi> ibid. And alſo in 1648. from theſe words, <hi>Jour.</hi> p. 22. <hi>For I ſaw that Chriſt had died for all Men, and was a Propitiation,</hi> &amp;c. From which nothing can be more clear than this, that he that died muſt be firſt alive; but Chriſt, as God, could not Die; but Chriſt as Man, or the Word made Fleſh, did Die; and <hi>G. F.</hi> ſaith, <hi>He ſaw his ſo dying was for all Men.</hi> His <hi>Hu<g ref="char:EOLhyphen"/>manity</hi> then, is here aſſerted, and <hi>Incarnation,</hi> as plain and clear as the Sun at Noon-day: But becauſe I will Rivet it, you have here in the ſame Page, and following Words, his Divinity as amply proved in theſe words <hi>viz. And had enlightned all Men and Women with his divine and ſaving Light.</hi> So here then the firſt Preacher amongſt the <hi>Quakers</hi> was found in
+<pb n="10" facs="tcp:110446:7"/> the <hi>Chriſtian Faith,</hi> both with reſpect to the <hi>Incarnation, Humanity</hi> and <hi>Divinity</hi> of Chriſt; and if he had not been ſo, think you that your Mr. <hi>Keith</hi> would have ſaid of him, <hi>That he was a worthy Inſtrument, ſafe in the hand of him th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> holds the ſeven Stars, and ſeven Golden Candleſticks?</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Cor. p. 111. Now as he who was ſafe in the <hi>hand of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> who holds the ſeven Stars,</hi> &amp;c. had taught, ſo the Quak<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> following his Doctrine and Example, likewiſe Teach in t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Year 1696. which is 48 Years after <hi>G. F.</hi> had that clear ſight ſenſe and knowledge of Chriſt, Mr. <hi>Penn,</hi> who all Men will allow muſt know the bottom of <hi>Quakeriſm,</hi> as much as your Maſter, makes in his <hi>Primitive Chriſtianity,</hi> this plain and candid Confeſſion, page 85. <hi>That Jeſus Chriſt took our Nature upon him, and was like us in all things, Sin ex<g ref="char:EOLhyphen"/>cepted; that he was Born of the Virgin</hi> Mary, <hi>and Suffered un<g ref="char:EOLhyphen"/>der</hi> Pontius Pilate, <hi>Crucified, Dead and Buried, Roſe again the third day, and Aſcended into Heaven, and ſits at the right hand of God, in the Power and Majeſty of his Father, who will one day judge the World by him, even that bleſſed Man Chriſt Jeſus, according to their Works.</hi> Now ſee if you think the Perſons name ought to be mentioned, under whom Jeſus Chriſt ſuffered; and alſo, in whoſe Sepulchre he was, when crucifi<g ref="char:EOLhyphen"/>ed and buried, as part of that Faith, without which 'tis im<g ref="char:EOLhyphen"/>poſſible to be ſaved. Mr. <hi>Penn</hi> hath added that alſo, <hi>viz.</hi> Pontius Pilate <hi>the</hi> Roman <hi>Governour, and</hi> Joſeph <hi>of</hi> Arima<g ref="char:EOLhyphen"/>thea: Sir, I need add no more Teſtimonies, tho' I could produce perhaps five Thouſand, from 48. to 1700. of the <hi>Quakers</hi> in general, but eſpecially thoſe of them that have appeared in Print, or have been Preachers amongſt them, of any Note, to Confront your unworthy Inſinuating a<g ref="char:EOLhyphen"/>gainſt them, of being Ignorant of the <hi>Incarnation of Chriſt;</hi> and all, as I perceive, grounded upon your own, and Wife's Ignorance; which, if true, it was high time for you to launch into another Church to be better taught, ſince you had ſo long been a Scandal to that you pretended to be a
+<pb n="11" facs="tcp:110446:7"/> Member of before. I muſt confeſs, ſome Trees will thrive much the better for being Tranſplanted; but 'tis hardly Civil to blame others for your Errors.</p>
+            <p>The next Article in order is, <hi>The Satisfaction and Atone<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nt made unto God the Father, by his Obedience and Death on <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Croſs.</hi>
+            </p>
+            <p>For a clear Demonſtration that you are either, as in the <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er part (juſt now mentioned) extream Ignorant, or elſe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou do the <hi>Quakers</hi> this Injury to gratifie your Maſter <hi>Keith,</hi> thoſe word to be ſure will not (for all the Sanction of his Coat newly put on) paſs ſo well as yours; and therefore I think you are the more culpable, under a ſhew of more Honeſty, to vent as much, at leaſt Spleen, with your Un<g ref="char:EOLhyphen"/>truth, as your Maſter; but I will not do as you have done, <hi>Reproach and not prove;</hi> but proceed to Mr. <hi>Penn</hi>'s Words, <hi>Serious Apology,</hi> page 146. <hi>We believe</hi> (ſaith he) <hi>in One only holy Lord God Almighty, and in One Lord Jeſus Chriſt, his only Son, and expreſs Image of his Subſtance, who took on him Fleſh, and was in the World, and in Life, Doctrine, Mi<g ref="char:EOLhyphen"/>racles, Death, Reſurrection, Aſcenſion and Mediation, perfect<g ref="char:EOLhyphen"/>ly did, and does continue to do, the Will of God. To whoſe holy Life, Power, Mediation and Blood, we only aſcribe our Sancti<g ref="char:EOLhyphen"/>fication, Juſtification, Redemption, and perfect Salvation; and we believe in One holy Spirit,</hi> &amp;c. Add to this what he ſaith, <hi>Primitive Chriſtianity Revived,</hi> pag. 89, 90. <hi>But let my Rea<g ref="char:EOLhyphen"/>der take this along with him, That we do acknowledge Chriſt through his holy</hi> Doing <hi>and</hi> Suffering <hi>(for being a Son, he learned Obedience) has obtained Mercy of God his Father for Mankind; and that his Obedience has an Influence to our Sal<g ref="char:EOLhyphen"/>vation, in all the parts and Branches of it.—I ſay, we do be<g ref="char:EOLhyphen"/>lieve and confeſs, that the active and paſſive Obedience of Chriſt Jeſus affects our Salvation throughout, as well from the Power and Pollution of Sin, as from the Guilt.</hi> Again, pag. 77. <hi>We do believe that Jeſus Chriſt was our holy Sacrifice and Atone<g ref="char:EOLhyphen"/>ment, the Propitiation; that he bore our Iniquities, and that</hi>
+               <pb n="12" facs="tcp:110446:8"/> 
+               <hi>by his Stripes we were healed of the Wounds</hi> Adam <hi>gave us in his Fall; and that God is Juſt in Forgiving true Penitents, upon the Credit of that holy Offering Chriſt made of himſelf to God for us; and that what he did and ſuffered, ſatisfied and pleaſed God.</hi>
+            </p>
+            <p>Thus, Sir, I have proved, I think, paſt a doubt, tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Ignorance of thoſe Truths, lay either in your Fam<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in particular, or in and about <hi>Huntingdon;</hi> and that it ſho<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> be ſo, is indeed matter of Shame unto you.</p>
+            <p>The next in order is the <hi>Reſurrection and Aſcenſion of his Body and Perſon</hi> (as if <hi>Perſon</hi> and <hi>Body</hi> were two parts) <hi>into Heaven, and his remaining in our Nature at the right hand of God, in the Glory of his Father, our Head, High Prieſt, and Interceſſor.</hi>
+            </p>
+            <p>Sir, 'tis really matter of Sorrow indeed, that You and your Wife ſhould be ſo long Ignorant of the <hi>Reſurrection</hi> and <hi>Aſcenſion</hi> of Chriſt, for all that are ſo, I cannot ſee any hopes they have, of any Interceſſion or Mediation to be made for them, for if our Mediator and Interceſſor is not aſcended into Glory, we are under very bad Circumſtances indeed; as is he that believes not the <hi>Reſurrection of Chriſt,</hi> ſince he has really Roſe for our <hi>Juſtification,</hi> as he did actu<g ref="char:EOLhyphen"/>ally Dye for our Sins: And if the Quakers are Ignorant hereof, I pity them with all my Heart; but I am not wil<g ref="char:EOLhyphen"/>ling to conclude them ſo, becauſe you were ſo. I cannot forbear thinking your Ignorance ſurely is owing to being led by, or keeping too much Company with, ſome ſilly Woman, or Women: Now for proof, that you abuſe them becauſe of your Ignorance, I would adviſe you to read, <hi>Serious Apology,</hi> 1ſt Part, printed 1671. by <hi>G. Whitehead,</hi> pag. 33, 34. It ſeem'd <hi>Jenner</hi> was of the Mind, that <hi>Chriſt's Body now in Heaven, is a Natural Body;</hi> and it looks as if you were of the ſame Mind, by theſe words, <hi>Remaining in our Nature,</hi> which is an abſurd Notion, to think Chriſt is now in Heaven in our Nature, for our Nature is Corrupt<g ref="char:EOLhyphen"/>able, and very much depraved; ſo that we are, as the Apo<g ref="char:EOLhyphen"/>ſtle
+<pb n="13" facs="tcp:110446:8"/> ſaid, <hi>by Nature Children of Wrath;</hi> and would you have Chriſt exiſt in ſuch a Nature in Heaven? Upon which ab<g ref="char:EOLhyphen"/>ſurdity <hi>G. Whitehead</hi> well obſerves, that the Scriptures do not ſay, <hi>That Chriſt's Glorified Body in Heaven is a Natural Body;</hi> for if Chriſt's Body be Natural or Humane now in Heaven, whoſe Body is it that is Spiritual and Glorious? Or is he one <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ritual Head of two Bodies, the one Natural, the other <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iritual? But ſaith <hi>G. W. The Apoſtle ſaid, He</hi> (Chriſt) <hi>ſhall <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hange our low Bodies, and make them like his Glorious Body;</hi> here you ſee 'tis plain ours is Low, (that is, <hi>Natural,</hi> &amp;c.) his is Glorious, <hi>&amp;c.</hi> and this <hi>G. Whitehead</hi> owns, and that he is Glo<g ref="char:EOLhyphen"/>rified with the Father, with the ſame Glory he had before the World began. But becauſe we will eſtabliſh this Truth, out of the Mouths of two Witneſſes, as well as to manifeſt how Unjuſt Men will be in Condemning and Im<g ref="char:EOLhyphen"/>peaching others, when their own Guilt flies in their Faces, We will hear what Mr. <hi>Barclay</hi> ſaith, <hi>Works</hi> Fol. 372. <hi>And therefore Chriſt lives always to make Interceſſion during the day of every Man's Viſitation, that they may be Converted; and when in ſome meaſure Converted, he makes Interceſſion that they may continue, and go on, and not faint,</hi> &amp;c.—Sir, pray be ſo honeſt as to confeſs, that it is now your Fault that you were ſo Ignorant, and not the Quakers; but I cannot think you were ſo, tho' you ſay ſo; your ſaying ſo being more to Reproach them, than to take Shame to your ſelf.</p>
+            <p>The laſt part of your Text is, <hi>The Faith and full Perſwaſion of Chriſt's Coming to Raiſe the Dead Bodies of the Saints, and all Men,</hi> &amp;c. the which it ſeems you were likewiſe Ignorant of, and therefore the Body of the Quakers muſt be ſo too. I reſolve to follow it to the laſt, with no leſs than two Witneſſes; the firſt is Mr. <hi>John Crook,</hi> in the Year 1662. where he fully, on behalf of the Quakers, affirms, they hold the true <hi>Doctrine of the Reſurrection,</hi> and that of the <hi>Bodies of the Saints;</hi> and <hi>wicked Men too, the one to Ju<g ref="char:EOLhyphen"/>ſtification, the other to Condemnation; yea, of the ſelf-ſame</hi>
+               <pb n="14" facs="tcp:110446:9"/> 
+               <hi>Bodies too, as much as a Natural and Spiritual Body can be, or is capable of being the very ſelf-ſame Body:</hi> Nor do I know of any Chriſtians that hold it otherwiſe. The 2d is, Mr <hi>Barclay,</hi> who on behalf of the Quakers ſaith, <hi>Works</hi> Fo<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 159. <hi>There ſhall be a Reſurrection of the Dead, both of t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Juſt and <g ref="char:V">Ʋ</g>njuſt, for the Hour is coming, in which all th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> are in their Graves, ſhall hear his</hi> (Chriſt's) <hi>Voice, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhall come forth,</hi> &amp;c. Many more Inſtances of this kin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> could produce, but this is enough for my Deſign, that is to prove the Ignorance of thoſe <hi>Fundamental Truths,</hi> is not the Quakers, but yours, or elſe as above, you are reſolved to Fire your own Houſe, if by that means you may Con<g ref="char:EOLhyphen"/>ſume your Neighbours; which, I muſt confeſs, are very ill Tokens of <hi>Reformation.</hi> The reſt of your <hi>Sermon</hi> I think not worth noticing, ſince you are ſo Erroneous in your Text.</p>
+            <p>What relates to <hi>Baptiſm</hi> and the <hi>Supper,</hi> I will not inſiſt on, but leave that for the Quakers, if they think fit to Anſwer; only thus much I obſerve, what an advantage you gave the Quakers in this, that you have not amongſt all thoſe <hi>Fundamentals,</hi> you ſay, <hi>you were Ignorant of,</hi> as above, you have not brought in thoſe two great <hi>Ordinances.</hi> You ſeem very tender I perceive, pag. 9. of your <hi>Apoſtles Character,</hi> and think it hard that the Quakers ſhould call him <hi>Renegado,</hi> &amp;c. the which I cannot blame you for, ſince you cannot chuſe but think it will be your turn next: But if they called him <hi>Judas,</hi> I think that they were too haſty therein, ſince it is more properly applicable to him that kept the Bag. I need ſay no more but this, that Mr. <hi>Penn,</hi> and your Unkle <hi>Whitehead,</hi> are in my Judgment, after all your Perverſions, obliged to you, the one for your expoſing his grave, ſeri<g ref="char:EOLhyphen"/>ous, ſound and religious Letter of Condolance, at his Bro<g ref="char:EOLhyphen"/>thers Calamity; the other for remembring ſuch a part of
+<pb n="15" facs="tcp:110446:9"/> his <hi>Sermon,</hi> that makes ſo much for the Author's Honour and Ingenuity. Sir, pray, till you leave off your <hi>I am ſures,</hi> blame not the Quakers for their Ignorance and Confi<g ref="char:EOLhyphen"/>dence: I do not find their Writings or Preaching to be <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Dogmatical as are your Lines; But then I conſider, <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e ſo Bold as blind <hi>Bayard;</hi> and yet, to do you Juſtice, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> believe you have more Sight and Senſe, then to act as you have done, were it not for that you are reſolved to do it, becauſe you will.</p>
+            <closer>
+               <signed>Yours in the beſt Service.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
